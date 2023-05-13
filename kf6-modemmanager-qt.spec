@@ -17,6 +17,7 @@ BuildRequires: cmake(Qt6DBusTools)
 BuildRequires: cmake(Qt6Concurrent)
 BuildRequires: cmake(Qt6Test)
 BuildRequires: cmake(Qt6Gui)
+BuildRequires: cmake(Qt6Xml)
 BuildRequires: doxygen
 BuildRequires: cmake(Qt6ToolsTools)
 BuildRequires: cmake(Qt6)
