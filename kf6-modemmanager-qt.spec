@@ -15,11 +15,12 @@ BuildRequires: cmake(ECM)
 BuildRequires: cmake(Qt6GuiTools)
 BuildRequires: cmake(Qt6DBusTools)
 BuildRequires: cmake(Qt6Concurrent)
-BUildRequires: cmake(Qt6Test)
+BuildRequires: cmake(Qt6Test)
 BuildRequires: cmake(Qt6Gui)
 BuildRequires: doxygen
 BuildRequires: cmake(Qt6ToolsTools)
 BuildRequires: cmake(Qt6)
+BuildRequires: pkgconfig(ModemManager)
 Requires: %{libname} = %{EVRD}
 
 %description
