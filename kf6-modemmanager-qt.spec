@@ -39,6 +39,7 @@ Qt wrapper for the ModemManager DBus API
 Summary: Development files for %{name}
 Group: Development/C
 Requires: %{libname} = %{EVRD}
+Requires: pkgconfig(ModemManager)
 
 %description -n %{devname}
 Development files (Headers etc.) for %{name}.
