@@ -1,6 +1,6 @@
 %define libname %mklibname KF6ModemManagerQt
 %define devname %mklibname KF6ModemManagerQt -d
-%define git 20230802
+%define git 20230811
 
 Name: kf6-modemmanager-qt
 Version: 5.240.0
