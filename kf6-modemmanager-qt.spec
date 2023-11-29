@@ -5,7 +5,7 @@
 #define git 20231103
 
 Name: kf6-modemmanager-qt
-Version: 5.245.0
+Version: 5.246.0
 Release: %{?git:0.%{git}.}1
 %if 0%{?git:1}
 Source0: https://invent.kde.org/frameworks/modemmanager-qt/-/archive/master/modemmanager-qt-master.tar.bz2#/modemmanager-qt-%{git}.tar.bz2
